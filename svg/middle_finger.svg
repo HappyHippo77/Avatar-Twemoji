@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 36 36"
+   version="1.1"
+   id="svg3"
+   sodipodi:docname="1f595.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs3" />
+  <sodipodi:namedview
+     id="namedview3"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showguides="true"
+     inkscape:zoom="12.180556"
+     inkscape:cx="19.49829"
+     inkscape:cy="9.31813"
+     inkscape:window-width="1920"
+     inkscape:window-height="1054"
+     inkscape:window-x="0"
+     inkscape:window-y="26"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3">
+    <sodipodi:guide
+       position="30.01,11.885"
+       orientation="0,-1"
+       id="guide3"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="25.909996,18.263"
+       orientation="1,0"
+       id="guide4"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="17.881,-0.039"
+       orientation="0,-1"
+       id="guide5"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <path
+     style="fill:#5080e2;fill-opacity:1"
+     d="m 25.91,17.737 c 0,0 0.059,-1.914 -1.941,-2.622 -1.885,-0.668 -2.984,0.773 -2.984,0.773 0,0 -0.072,-1.687 -2.058,-2.232 -1.671,-0.459 -2.916,1.167 -2.916,1.167 v -0.822 c 0,-0.959 -0.542,-2.575 -2.543,-2.576 -2,-0.002 -2.457,1.659 -2.457,2.576 v 1.614 c 0,1.323 -0.948,0.198 -1.636,0.823 -1.57,1.427 -2.269,6.431 -1.188,10.5 1.312,4.938 4.062147,9.14172 9.694,9.101 5.394031,-0.039 8.023996,-5.298 8.028996,-11.924 -0.03173,0.02942 4e-6,-6.378 4e-6,-6.378 z"
+     id="path1" />
+  <path
+     d="M21 18.5c0 1.381-1.119 2.5-2.5 2.5S16 19.881 16 18.5v-16C16 1.119 17.119 0 18.5 0S21 1.119 21 2.5v16zM12.25 16l-2.312.003c-1.625 0-2.141.465-2.812 3.122-.438 1.729-.984 2.547-.984 4.391 0 2.906 4.594 12.348 11.359 12.391L12.25 16z"
+     id="path2"
+     style="fill:#5080e2;fill-opacity:1" />
+  <path
+     d="M10 25.521c0 .251.204.479.456.479h.088c.252 0 .456-.204.456-.456V16h-.969L10 25.521z"
+     id="path3"
+     style="fill:#1e4db0;fill-opacity:1" />
+</svg>

@@ -1,0 +1,6 @@
+Skin color: 5080e2ff
+Inner ear color: e1aeebff
+Outer ear color: 3b71deff
+Face color: 0f2757ff
+Water color: a2cff4ff
+Shadow color: 1e4db0ff
